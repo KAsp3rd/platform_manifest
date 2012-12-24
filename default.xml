@@ -367,7 +367,9 @@
   <project path="vendor/aokp" name="KAsp3rd/vendor_aokp" remote="aokp" revision="jb-mr1" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="aokp" revision="jb-mr1" />
+  <project path="vendor/samsung/d2tmo" name="KAsp3rd/android_vendor_samsung_d2tmo" remote="aokp" revision="jb-mr1" />
+  <project path="vendor/samsung/d2-common" name="KAsp3rd/android_vendor_samsung_d2-common" remote="aokp" revision="jb-mr1" />
+  <project path="vendor/samsung/adrenoblobs4.2" name="KAsp3rd/android_vendor_samsung_adrenoblobs4.2" remote="aokp" revision="jb-mr1" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="jb-mr1" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
