@@ -6,11 +6,11 @@
            review="https://android-review.googlesource.com/" />
 
   <remote  name="aokp"
-           fetch="https://github.com/"
+           fetch="git://github.com/"
            review="gerrit.sudoservers.com" />
 
   <remote  name="cm"
-           fetch="https://github.com/CyanogenMod/"
+           fetch="git://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
   <default revision="refs/tags/android-4.2.1_r1"
