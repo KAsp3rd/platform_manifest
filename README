@@ -1,2 +1,4 @@
+$ repo init -u https://github.com/KAsp3rd/platform_manifest.git -b jb-mr1
+(only if you are building for a d2 device) If you are building for any other officially supported AOKP device then;
 $ repo init -u https://github.com/AOKP/platform_manifest.git -b jb-mr1
 $ repo sync
