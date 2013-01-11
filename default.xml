@@ -41,7 +41,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/lge/mako" name="AOKP/device_lge_mako" remote="aokp" revision="jb-mr1" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/d2-common" name="KAsp3rd/android_device_samsung_d2-common" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/d2-common" name="AOKP/android_device_samsung_d2-common" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/d2att" name="AOKP/device_samsung_d2att" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/d2tmo" name="AOKP/android_device_samsung_d2tmo" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/d2usc" name="AOKP/device_samsung_d2usc" remote="aokp" revision="jb-mr1" />
@@ -52,7 +52,7 @@
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb-mr1" />
-  <project path="device/samsung/qcom-common" name="KAsp3rd/device_samsung_qcom-common" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/qcom-common" name="AOKP/device_samsung_qcom-common" remote="aokp" revision="jb-mr1" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -213,8 +213,8 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="KAsp3rd/frameworks_av" remote="aokp" revision="jb-mr1" />
-  <project path="frameworks/base" name="KAsp3rd/frameworks_base" remote="aokp" revision="jb-mr1" />
+  <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb-mr1" />
+  <project path="frameworks/base" name="AOKP/frameworks_base" remote="aokp" revision="jb-mr1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -271,7 +271,7 @@
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="KAsp3rd/packages_apps_Camera" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Camera" name="AOKP/packages_apps_Camera" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="AOKP/packages_apps_Contacts" remote="aokp" revision="jb-mr1" />
@@ -284,7 +284,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Mms" name="KAsp3rd/packages_apps_Mms" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
@@ -354,7 +354,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="KAsp3rd/android_system_core" remote="aokp" revision="jb-mr1" />
+  <project path="system/core" name="AOKP/android_system_core" remote="aokp" revision="jb-mr1" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr1" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
@@ -366,8 +366,8 @@
   <project path="vendor/aokp" name="KAsp3rd/vendor_aokp" remote="aokp" revision="jb-mr1" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/samsung/d2tmo" name="KAsp3rd/android_vendor_samsung_d2tmo" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/samsung/d2-common" name="KAsp3rd/android_vendor_samsung_d2-common" remote="aokp" revision="jb-mr1" />
+  <project path="vendor/samsung/d2tmo" name="AOKP/android_vendor_samsung_d2tmo" remote="aokp" revision="jb-mr1" />
+  <project path="vendor/samsung/d2-common" name="AOKP/android_vendor_samsung_d2-common" remote="aokp" revision="jb-mr1" />
   <project path="vendor/samsung/adrenoblobs4.2" name="KAsp3rd/android_vendor_samsung_adrenoblobs4.2" remote="aokp" revision="jb-mr1" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="jb-mr1" />
 
