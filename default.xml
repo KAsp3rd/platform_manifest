@@ -15,6 +15,7 @@
 
   <default revision="refs/tags/android-4.2.1_r1"
            remote="aosp"
+           sync-c="true"
            sync-j="4" />
 
   <project path="build" name="KAsp3rd/android_build" remote="aokp" revision="jb-mr1" >
